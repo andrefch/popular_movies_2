@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_movie_sort_paths">
+        <item>@string/list_movie_sort_popularity_path</item>
+        <item>@string/list_movie_sort_top_rated_path</item>
+        <item>@string/list_movie_sort_favorites_path</item>
+    </string-array>
+
+    <string-array name="list_movie_sort_titles">
+        <item>@string/list_movie_sort_popularity_title</item>
+        <item>@string/list_movie_sort_top_rated_title</item>
+        <item>@string/list_movie_sort_favorites_title</item>
+    </string-array>
+</resources>
+

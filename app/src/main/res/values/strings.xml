@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Popular Movies II</string>
+    <string name="list_movie_url_path_image_size">w500</string>
+    <string name="title_activity_detail_movie">Detalhes</string>
+
+    <string name="action_share">Share video</string>
+    <string name="action_favorite">Add to favorites</string>
+    <string name="action_unfavorite">Remove from favorites</string>
+
+    <string name="example_title_movie">Interstellar</string>
+    <string name="example_original_title_movie">(Interstellar)</string>
+
+    <string name="list_movie_sort_popularity_path" translatable="false">popular</string>
+    <string name="list_movie_sort_top_rated_path" translatable="false">top_rated</string>
+    <string name="list_movie_sort_favorites_path" translatable="false">favorites</string>
+
+    <string name="list_movie_sort_popularity_title">Popular Movies</string>
+    <string name="list_movie_sort_top_rated_title">Top Rated Movies</string>
+    <string name="list_movie_sort_favorites_title">Favorite Movies</string>
+
+    <string name="format_original_title_movie">(%s)</string>
+    <string name="example_release_date_movie">01/01/2000</string>
+    <string name="release_date_movie_empty">-</string>
+
+    <string name="label_release_date">Release Date</string>
+    <string name="label_average_vote">Average Vote</string>
+    <string name="label_overview">Overview</string>
+    <string name="example_average_vote">10.0</string>
+    <string name="format_average_vote_movie">%.1f</string>
+    <string name="list_movie_loading_error">Sorry! Something is wrong! =(</string>
+    <string name="try_again">Try again</string>
+    <string name="detail_movie_video_icon_content_description">Red movie icon</string>
+    <string name="example_video_title">Trailer Legendado</string>
+    <string name="example_video_subtitle">Trailer</string>
+    <string name="detail_movie_review_icon_content_description">Yellow user icon with green dialog.</string>
+    <string name="example_review_author">John Chard</string>
+    <string name="example_review_content">
+        "Lots of rocks everywhere…\n\n"
+        "It's CGI destruction time as Dwayne Johnson battles earthquakes and a tsunami to go rescue his daughter - with estranged wife in tow of course.\n\n"
+        "Disaster films are easy to kick because very rarely they are nothing more than candy carnage with a trite screenplay and cheese laden dialogue."
+        "Such is the case with San Andreas."
+        "In essence this is a remake of Roland Emmerich's 2012, only this is the shorter version with the time span that 2012 should have had."
+        "This does exactly what the marketing department promised it would, namely lots of crash bang and wallop, but just like Emmerich's behemoth it gets boring entering the final third, the writing just not good enough to hold interest once the noise and destruction dies down before the big finale arrives."
+        "Suspense is absent, emotional investment in characters is null and void, while there are no worthwhile surprises in store. But on the plus side Johnson is a likable guy and he carries us through till the end of what is a fun movie if expectation levels are appropriately set at dumb popcorn fodder. 6/10"
+    </string>
+    <string name="detail_movie_video_loading_error">Sorry! Failed to load videos. =(</string>
+    <string name="detail_movie_review_loading_error">Sorry! Failed to load reviews. =(</string>
+    <string name="share_video_myme_type" translatable="false">text/plain</string>
+    <string name="share_video_message">Hey! Look this video from the movie \"%1$s\".\n%2$s</string>
+    <string name="share_video_error_video_null">This movie doesn\'t have any videos to share.</string>
+    <string name="share_video_error_generic_message">Sorry! Failed to share video from this movie. =(</string>
+    <string name="content_authority" translatable="false">br.com.andrefch.popularmovies</string>
+    <string name="detail_movie_add_favorite_success">Movie added to favorites. =)</string>
+    <string name="detail_movie_add_favorite_error">Failed to add movie to favorites. =(</string>
+    <string name="detail_movie_remove_favorite_success">Movie removed from favorites. =)</string>
+    <string name="detail_movie_remove_favorite_error">Failed to remove movie from favorites. =(</string>
+    <string name="empty_state_no_video">The video list is empty.</string>
+    <string name="empty_state_no_review">No reviews yet.</string>
+    <string name="empty_state_no_movie">The movie list is empty.</string>
+    <string name="empty_state_no_connection">No internet connection.</string>
+    <string name="open_youtube_error">Failed to open video. =(</string>
+</resources>

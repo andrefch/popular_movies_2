@@ -1,0 +1,18 @@
+<resources>
+    <dimen name="cardview_default_margin">2dp</dimen>
+    <dimen name="app_bar_height">240dp</dimen>
+    <dimen name="detail_movie_title_text_size">24sp</dimen>
+    <dimen name="detail_movie_title_min_text_size">12sp</dimen>
+    <dimen name="detail_movie_title_step_granularity">2sp</dimen>
+    <dimen name="detail_movie_poster_height">150dp</dimen>
+    <dimen name="detail_movie_poster_width">100dp</dimen>
+    <dimen name="detail_movie_tablayout_height">48dp</dimen>
+    <dimen name="subtitle_text_size">14sp</dimen>
+    <dimen name="value_text_size">20sp</dimen>
+    <dimen name="list_primary_text_size">16sp</dimen>
+    <dimen name="list_secondary_text_size">12sp</dimen>
+    <dimen name="list_text_step_granularity">1sp</dimen>
+    <dimen name="list_primary_min_text_size">12sp</dimen>
+    <dimen name="list_secondary_min_text_size">8sp</dimen>
+    <dimen name="empty_state_text_size">18sp</dimen>
+</resources>
